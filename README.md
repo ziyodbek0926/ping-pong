@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# ping-pong
 Ping-pong game in c
 =======
 # ping-pong
@@ -30,4 +28,3 @@ so far and the standard library.***
 ***When one of the players scores 21 points, congratulations to the winner are displayed on the screen and the game ends.==***
 
 
->>>>>>> 32dcd2d3a438422135d6ee280fbde8ddcc3a0092
