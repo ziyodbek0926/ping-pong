@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-# ping-pong
-Ping-pong game in c
 =======
+image/1.jpg
 # ping-pong
+
 Ping-pong game in c
 
 ***== Quest received. Develop an src/pong.c program for a two-player game, 
